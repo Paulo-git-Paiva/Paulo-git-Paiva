@@ -1,5 +1,3 @@
-# 👨‍💻 Paulo Paiva
-
 <div align="center">
 
 <p align="center">
@@ -79,9 +77,15 @@ Sou apaixonado por tecnologia, aprendizado contínuo e pela construção de solu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-git-Paiva&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Paulo-git-Paiva&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-git-Paiva&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Paulo-git-Paiva&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-git-Paiva&theme=tokyonight" />
+</p>
 
 </div>
 
@@ -89,16 +93,21 @@ Sou apaixonado por tecnologia, aprendizado contínuo e pela construção de solu
 
 ## 📋 Metodologias Ágeis
 
-* Scrum
-* Kanban
-* Sprint Planning
-* Sprint Review
-* Sprint Retrospective
-* Daily Meetings
-* Refinamento de Backlog
-* Gestão de Demandas
-* Code Review
-* Desenvolvimento Colaborativo
+<p align="left">
+  <img src="https://img.shields.io/badge/Scrum-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kanban-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sprint_Planning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sprint_Review-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retrospective-5B21B6?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Daily_Meetings-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backlog_Refinement-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code_Review-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gestão_de_Demandas-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork-5B21B6?style=for-the-badge" />
+</p>
 
 ---
 
